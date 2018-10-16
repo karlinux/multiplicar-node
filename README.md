@@ -1,1 +1,1 @@
-Aplicación  para generar tablas de multimplicar
+Aplicación  para generar tablas de multiplicar
